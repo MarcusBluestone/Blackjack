@@ -1,0 +1,11 @@
+{"experiments": 
+
+[   {"total_rollouts": 750, "steps_per_rollout": 2048, "eval_freq": 5, "observation_type": "HIGH_LOW", "arch": [1]},
+    {"total_rollouts": 750, "steps_per_rollout": 2048, "eval_freq": 5, "observation_type": "VALUES2", "arch": [1]},
+    {"total_rollouts": 750, "steps_per_rollout": 2048, "eval_freq": 5, "observation_type": "VALUES2", "arch": null},
+    {"total_rollouts": 750, "steps_per_rollout": 2048, "eval_freq": 5, "observation_type": "HIGH_LOW", "arch": null},
+    {"total_rollouts": 750, "steps_per_rollout": 2048, "eval_freq": 5, "observation_type": "TRUE", "arch": [1]},
+    {"total_rollouts": 750, "steps_per_rollout": 2048, "eval_freq": 5, "observation_type": "TRUE", "arch": null},
+    {"total_rollouts": 750, "steps_per_rollout": 2048, "eval_freq": 5, "observation_type": "VALUES", "arch": null},
+    {"total_rollouts": 750, "steps_per_rollout": 2048, "eval_freq": 5, "observation_type": "VALUES", "arch": [1]}
+]}
