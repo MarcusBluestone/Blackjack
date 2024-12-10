@@ -1,6 +1,6 @@
 # Blackjack
 Capstone Project for MIT Reinforcement Learning (6.7920) Class. 
-See `overview.pdf` for the full paper.
+\\[`overview.pdf`](overview.pdf) contains the final version of our paper
 
 ## Overview of Files
 1. `counts.py` and `dp.py` are scripts for enumarting all possible game states and also calculating the Dynamic Programming solution for Blackjack. The results can be optionally saved into a folder so that the DP can run quicker in the future.
